@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="175236c6-8da1-4b6a-8f7a-2ee238273c58" name="Default Changelist" comment="" />
+    <list default="true" id="175236c6-8da1-4b6a-8f7a-2ee238273c58" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/GameOfLife/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GameOfLife/Program.cs" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,43 +34,43 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="1406" />
+          <entry key="cs" value="1590" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="1406" />
+          <entry key="C#" value="1590" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GameOfLife/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+            <state relative-caret-position="45">
+              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
               <folding>
-                <marker date="1549893398411" expanded="false" signature="6:39" ph="..." />
-                <marker date="1549893398411" expanded="true" signature="41:139" ph="/* Once the project is running, to get to the next generation ... */" />
-                <marker date="1549893398411" expanded="true" signature="161:1255" ph="{...}" />
-                <marker date="1549893398411" expanded="true" signature="183:1253" ph="{...}" />
-                <marker date="1549893398411" expanded="true" signature="236:546" ph="{...}" />
-                <marker date="1549893398411" expanded="true" signature="427:536" ph="{...}" />
-                <marker date="1549893398411" expanded="true" signature="611:1247" ph="{...}" />
-                <marker date="1549893398411" expanded="true" signature="791:1237" ph="{...}" />
-                <marker date="1549893398411" expanded="true" signature="882:952" ph="{...}" />
-                <marker date="1549893398411" expanded="true" signature="1119:1223" ph="{...}" />
+                <marker date="1549895596125" expanded="true" signature="6:39" ph="..." />
+                <marker date="1549895596125" expanded="true" signature="41:283" ph="/* To get project running, set grid height and width on line 14 in ... */" />
+                <marker date="1549895596125" expanded="true" signature="305:1399" ph="{...}" />
+                <marker date="1549895596125" expanded="true" signature="327:1397" ph="{...}" />
+                <marker date="1549895596125" expanded="true" signature="380:690" ph="{...}" />
+                <marker date="1549895596125" expanded="true" signature="571:680" ph="{...}" />
+                <marker date="1549895596125" expanded="true" signature="755:1391" ph="{...}" />
+                <marker date="1549895596125" expanded="true" signature="935:1381" ph="{...}" />
+                <marker date="1549895596125" expanded="true" signature="1026:1096" ph="{...}" />
+                <marker date="1549895596125" expanded="true" signature="1263:1367" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GameOfLife.Library/GameOfLifeGrid.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
+            <state relative-caret-position="270">
               <caret line="18" column="77" selection-start-line="18" selection-start-column="77" selection-end-line="18" selection-end-column="77" />
               <folding>
                 <marker date="1549893644798" expanded="true" signature="43:2550" ph="{...}" />
@@ -113,6 +115,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/GameOfLife.Library/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameOfLife.Library.Tests/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
@@ -126,9 +131,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/GameOfLife/Program.cs" />
         <option value="$PROJECT_DIR$/GameOfLife.Library/GameOfLifeGrid.cs" />
         <option value="$PROJECT_DIR$/GameOfLife.Library.Tests/GameOfLifeTests.cs" />
+        <option value="$PROJECT_DIR$/GameOfLife/Program.cs" />
       </list>
     </option>
   </component>
@@ -143,6 +148,7 @@
     <option name="width" value="1440" />
     <option name="height" value="826" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -229,12 +235,12 @@
       <option name="presentableId" value="Default" />
       <updated>1549848883272</updated>
       <workItem from="1549848884471" duration="2239000" />
-      <workItem from="1549891899240" duration="2529000" />
+      <workItem from="1549891899240" duration="2932000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4768000" />
+    <option name="totallyTimeSpent" value="5171000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -264,8 +270,8 @@
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Floobits" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Unit Tests" order="12" visible="true" weight="0.32961586" />
-      <window_info anchor="bottom" id="Terminal" order="13" weight="0.28996283" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" weight="0.32961586" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="13" visible="true" weight="0.28996283" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="15" weight="0.3283767" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -346,25 +352,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GameOfLife/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
-          <folding>
-            <marker date="1549893398411" expanded="false" signature="6:39" ph="..." />
-            <marker date="1549893398411" expanded="true" signature="41:139" ph="/* Once the project is running, to get to the next generation ... */" />
-            <marker date="1549893398411" expanded="true" signature="161:1255" ph="{...}" />
-            <marker date="1549893398411" expanded="true" signature="183:1253" ph="{...}" />
-            <marker date="1549893398411" expanded="true" signature="236:546" ph="{...}" />
-            <marker date="1549893398411" expanded="true" signature="427:536" ph="{...}" />
-            <marker date="1549893398411" expanded="true" signature="611:1247" ph="{...}" />
-            <marker date="1549893398411" expanded="true" signature="791:1237" ph="{...}" />
-            <marker date="1549893398411" expanded="true" signature="882:952" ph="{...}" />
-            <marker date="1549893398411" expanded="true" signature="1119:1223" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GameOfLife.Library.Tests/GameOfLifeTests.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1260">
@@ -389,7 +376,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GameOfLife.Library/GameOfLifeGrid.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="270">
           <caret line="18" column="77" selection-start-line="18" selection-start-column="77" selection-end-line="18" selection-end-column="77" />
           <folding>
             <marker date="1549893644798" expanded="true" signature="43:2550" ph="{...}" />
@@ -403,6 +390,25 @@
             <marker date="1549893644798" expanded="true" signature="1843:2542" ph="{...}" />
             <marker date="1549893644798" expanded="true" signature="1976:2497" ph="{...}" />
             <marker date="1549893644798" expanded="true" signature="2307:2479" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameOfLife/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <folding>
+            <marker date="1549895596125" expanded="true" signature="6:39" ph="..." />
+            <marker date="1549895596125" expanded="true" signature="41:283" ph="/* To get project running, set grid height and width on line 14 in ... */" />
+            <marker date="1549895596125" expanded="true" signature="305:1399" ph="{...}" />
+            <marker date="1549895596125" expanded="true" signature="327:1397" ph="{...}" />
+            <marker date="1549895596125" expanded="true" signature="380:690" ph="{...}" />
+            <marker date="1549895596125" expanded="true" signature="571:680" ph="{...}" />
+            <marker date="1549895596125" expanded="true" signature="755:1391" ph="{...}" />
+            <marker date="1549895596125" expanded="true" signature="935:1381" ph="{...}" />
+            <marker date="1549895596125" expanded="true" signature="1026:1096" ph="{...}" />
+            <marker date="1549895596125" expanded="true" signature="1263:1367" ph="{...}" />
           </folding>
         </state>
       </provider>

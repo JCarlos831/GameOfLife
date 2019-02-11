@@ -1,6 +1,9 @@
 ﻿using System;
 using GameOfLife.Library;
 
+// To get project running, set grid height and width on line 14 in 
+// new GameOfLifeGrid(,)
+// Height and Width must each be greater than zero
 // Once the project is running, to get to the next generation
 // press "Enter". To quit, type "q".
 
@@ -10,7 +13,7 @@ namespace GameOfLife
     {
         public static void Main(string[] args)
         {
-            GameOfLifeGrid grid = new GameOfLifeGrid(-1, -1);
+            GameOfLifeGrid grid = new GameOfLifeGrid(15, 60);
             grid.Randomize();
 
             ShowGrid(grid.CurrentState);
