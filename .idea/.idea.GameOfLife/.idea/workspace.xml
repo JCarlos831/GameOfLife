@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="175236c6-8da1-4b6a-8f7a-2ee238273c58" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1865314726">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="config" value="3" />
+          <entry key="cs" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="11" />
+          <entry key="Config" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="1406" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="1406" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GameOfLife/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+              <folding>
+                <marker date="1549893398411" expanded="false" signature="6:39" ph="..." />
+                <marker date="1549893398411" expanded="true" signature="41:139" ph="/* Once the project is running, to get to the next generation ... */" />
+                <marker date="1549893398411" expanded="true" signature="161:1255" ph="{...}" />
+                <marker date="1549893398411" expanded="true" signature="183:1253" ph="{...}" />
+                <marker date="1549893398411" expanded="true" signature="236:546" ph="{...}" />
+                <marker date="1549893398411" expanded="true" signature="427:536" ph="{...}" />
+                <marker date="1549893398411" expanded="true" signature="611:1247" ph="{...}" />
+                <marker date="1549893398411" expanded="true" signature="791:1237" ph="{...}" />
+                <marker date="1549893398411" expanded="true" signature="882:952" ph="{...}" />
+                <marker date="1549893398411" expanded="true" signature="1119:1223" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GameOfLife.Library/GameOfLifeGrid.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="18" column="77" selection-start-line="18" selection-start-column="77" selection-end-line="18" selection-end-column="77" />
+              <folding>
+                <marker date="1549893644798" expanded="true" signature="43:2550" ph="{...}" />
+                <marker date="1549893644798" expanded="true" signature="77:2548" ph="{...}" />
+                <marker date="1549893644798" expanded="true" signature="323:875" ph="{...}" />
+                <marker date="1549893644798" expanded="true" signature="772:865" ph="{...}" />
+                <marker date="1549893644798" expanded="true" signature="910:1358" ph="{...}" />
+                <marker date="1549893644798" expanded="true" signature="1021:1247" ph="{...}" />
+                <marker date="1549893644798" expanded="true" signature="1391:1775" ph="{...}" />
+                <marker date="1549893644798" expanded="true" signature="1545:1765" ph="{...}" />
+                <marker date="1549893644798" expanded="true" signature="1843:2542" ph="{...}" />
+                <marker date="1549893644798" expanded="true" signature="1976:2497" ph="{...}" />
+                <marker date="1549893644798" expanded="true" signature="2307:2479" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GameOfLife.Library.Tests/GameOfLifeTests.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1260">
+              <caret line="85" column="13" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
+              <folding>
+                <marker date="1549894527759" expanded="false" signature="6:36" ph="..." />
+                <marker date="1549894527759" expanded="true" signature="72:3220" ph="{...}" />
+                <marker date="1549894527759" expanded="true" signature="79:322" ph="/* Any live cell with fewer than two neighbors dies ... */" />
+                <marker date="1549894527759" expanded="true" signature="379:3218" ph="{...}" />
+                <marker date="1549894527759" expanded="true" signature="567:734" ph="{...}" />
+                <marker date="1549894527759" expanded="true" signature="916:1084" ph="{...}" />
+                <marker date="1549894527759" expanded="true" signature="1261:1427" ph="{...}" />
+                <marker date="1549894527759" expanded="true" signature="1615:1783" ph="{...}" />
+                <marker date="1549894527759" expanded="true" signature="1966:2133" ph="{...}" />
+                <marker date="1549894527759" expanded="true" signature="2316:2483" ph="{...}" />
+                <marker date="1549894527759" expanded="true" signature="2547:3212" ph="{...}" />
+                <marker date="1549894527759" expanded="true" signature="2646:2825" ph="{...}" />
+                <marker date="1549894527759" expanded="true" signature="2938:3202" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/GameOfLife.Library/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameOfLife.Library.Tests/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameOfLife/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameOfLife.Library/GameOfLifeGrid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameOfLife.Library.Tests/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameOfLife/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameOfLife.Library.Tests/GameOfLifeTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameOfLife.Library/GameOfLifeRules.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/GameOfLife/Program.cs" />
+        <option value="$PROJECT_DIR$/GameOfLife.Library/GameOfLifeGrid.cs" />
+        <option value="$PROJECT_DIR$/GameOfLife.Library.Tests/GameOfLifeTests.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="826" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="GameOfLife" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="GameOfLife" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="GameOfLife" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="GameOfLife" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="GameOfLife.Library" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="GameOfLife" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="GameOfLife.Library.Tests" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/GameOfLife/bin/Debug/GameOfLife.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GameOfLife/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/GameOfLife/GameOfLife.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="175236c6-8da1-4b6a-8f7a-2ee238273c58" name="Default Changelist" comment="" />
+      <created>1549848883272</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549848883272</updated>
+      <workItem from="1549848884471" duration="2239000" />
+      <workItem from="1549891899240" duration="2529000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4768000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3283767" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Floobits" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Unit Tests" order="12" visible="true" weight="0.32961586" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.28996283" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.3283767" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/GameOfLife.Library/GameOfLifeRules.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1549846902980" expanded="true" signature="42:764" ph="{...}" />
+            <marker date="1549846902980" expanded="true" signature="70:110" ph="{...}" />
+            <marker date="1549846902980" expanded="true" signature="143:757" ph="{...}" />
+            <marker date="1549846902980" expanded="true" signature="237:751" ph="{...}" />
+            <marker date="1549846902980" expanded="true" signature="281:707" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameOfLife.Library.Tests/packages.config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameOfLife.Library/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1549846572942" expanded="false" signature="6:63" ph="..." />
+            <marker date="1549846572942" expanded="true" signature="65:195" ph="/* Information about this assembly is defined by the following attributes. ... */" />
+            <marker date="1549846572942" expanded="true" signature="484:708" ph="/* The assembly version has the format &quot;{Major}.{Minor}.{Build}.{Revision}&quot;. ... */" />
+            <marker date="1549846572942" expanded="true" signature="748:982" ph="/* The following attributes are used to specify the signing key for the assembly, ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameOfLife/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1549846551909" expanded="false" signature="6:63" ph="..." />
+            <marker date="1549846551909" expanded="true" signature="65:195" ph="/* Information about this assembly is defined by the following attributes. ... */" />
+            <marker date="1549846551909" expanded="true" signature="476:700" ph="/* The assembly version has the format &quot;{Major}.{Minor}.{Build}.{Revision}&quot;. ... */" />
+            <marker date="1549846551909" expanded="true" signature="740:974" ph="/* The following attributes are used to specify the signing key for the assembly, ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameOfLife.Library.Tests/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1549846593282" expanded="false" signature="6:63" ph="..." />
+            <marker date="1549846593282" expanded="true" signature="65:195" ph="/* Information about this assembly is defined by the following attributes. ... */" />
+            <marker date="1549846593282" expanded="true" signature="490:714" ph="/* The assembly version has the format &quot;{Major}.{Minor}.{Build}.{Revision}&quot;. ... */" />
+            <marker date="1549846593282" expanded="true" signature="754:988" ph="/* The following attributes are used to specify the signing key for the assembly, ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameOfLife/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+          <folding>
+            <marker date="1549893398411" expanded="false" signature="6:39" ph="..." />
+            <marker date="1549893398411" expanded="true" signature="41:139" ph="/* Once the project is running, to get to the next generation ... */" />
+            <marker date="1549893398411" expanded="true" signature="161:1255" ph="{...}" />
+            <marker date="1549893398411" expanded="true" signature="183:1253" ph="{...}" />
+            <marker date="1549893398411" expanded="true" signature="236:546" ph="{...}" />
+            <marker date="1549893398411" expanded="true" signature="427:536" ph="{...}" />
+            <marker date="1549893398411" expanded="true" signature="611:1247" ph="{...}" />
+            <marker date="1549893398411" expanded="true" signature="791:1237" ph="{...}" />
+            <marker date="1549893398411" expanded="true" signature="882:952" ph="{...}" />
+            <marker date="1549893398411" expanded="true" signature="1119:1223" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameOfLife.Library.Tests/GameOfLifeTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="85" column="13" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
+          <folding>
+            <marker date="1549894527759" expanded="false" signature="6:36" ph="..." />
+            <marker date="1549894527759" expanded="true" signature="72:3220" ph="{...}" />
+            <marker date="1549894527759" expanded="true" signature="79:322" ph="/* Any live cell with fewer than two neighbors dies ... */" />
+            <marker date="1549894527759" expanded="true" signature="379:3218" ph="{...}" />
+            <marker date="1549894527759" expanded="true" signature="567:734" ph="{...}" />
+            <marker date="1549894527759" expanded="true" signature="916:1084" ph="{...}" />
+            <marker date="1549894527759" expanded="true" signature="1261:1427" ph="{...}" />
+            <marker date="1549894527759" expanded="true" signature="1615:1783" ph="{...}" />
+            <marker date="1549894527759" expanded="true" signature="1966:2133" ph="{...}" />
+            <marker date="1549894527759" expanded="true" signature="2316:2483" ph="{...}" />
+            <marker date="1549894527759" expanded="true" signature="2547:3212" ph="{...}" />
+            <marker date="1549894527759" expanded="true" signature="2646:2825" ph="{...}" />
+            <marker date="1549894527759" expanded="true" signature="2938:3202" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameOfLife.Library/GameOfLifeGrid.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="18" column="77" selection-start-line="18" selection-start-column="77" selection-end-line="18" selection-end-column="77" />
+          <folding>
+            <marker date="1549893644798" expanded="true" signature="43:2550" ph="{...}" />
+            <marker date="1549893644798" expanded="true" signature="77:2548" ph="{...}" />
+            <marker date="1549893644798" expanded="true" signature="323:875" ph="{...}" />
+            <marker date="1549893644798" expanded="true" signature="772:865" ph="{...}" />
+            <marker date="1549893644798" expanded="true" signature="910:1358" ph="{...}" />
+            <marker date="1549893644798" expanded="true" signature="1021:1247" ph="{...}" />
+            <marker date="1549893644798" expanded="true" signature="1391:1775" ph="{...}" />
+            <marker date="1549893644798" expanded="true" signature="1545:1765" ph="{...}" />
+            <marker date="1549893644798" expanded="true" signature="1843:2542" ph="{...}" />
+            <marker date="1549893644798" expanded="true" signature="1976:2497" ph="{...}" />
+            <marker date="1549893644798" expanded="true" signature="2307:2479" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+/Users/JuanCMontoya/Projects/GameOfLife/GameOfLife/obj/x86/Debug/GameOfLife.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/GameOfLife/GameOfLife/obj/x86/Debug/GameOfLife.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/GameOfLife/GameOfLife/bin/Debug/GameOfLife.exe
+/Users/JuanCMontoya/Projects/GameOfLife/GameOfLife/bin/Debug/GameOfLife.pdb
+/Users/JuanCMontoya/Projects/GameOfLife/GameOfLife/bin/Debug/GameOfLife.Library.dll
+/Users/JuanCMontoya/Projects/GameOfLife/GameOfLife/bin/Debug/GameOfLife.Library.pdb
+/Users/JuanCMontoya/Projects/GameOfLife/GameOfLife/obj/x86/Debug/GameOfLife.csproj.CopyComplete
+/Users/JuanCMontoya/Projects/GameOfLife/GameOfLife/obj/x86/Debug/GameOfLife.exe
+/Users/JuanCMontoya/Projects/GameOfLife/GameOfLife/obj/x86/Debug/GameOfLife.pdb
